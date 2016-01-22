@@ -11,6 +11,8 @@ public class Main2Activity extends AppCompatActivity {
 
     String abc="devesh";
 
+    String devesh ="awesome";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
